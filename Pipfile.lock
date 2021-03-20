@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7ac25efb6652a00c3b90b1eb8e3f4c111da4fc1da39d80def02ea1bac810f0a1"
+            "sha256": "0e65f4b1b7c2a5bd5c47f6dd98bdce6d56db3bdd4c845c59101d1491863f29c1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -33,10 +33,10 @@
         },
         "django-colorfield": {
             "hashes": [
-                "sha256:7bec0c7a8b3b170bf232f78ed23d2545ddc9c43cb2f45704ccdd57b948b29d8c",
-                "sha256:808fd1783be0331dc15f0d4e98d18e3b31257b4837ac89594b94f87170d6c6ce"
+                "sha256:63a542c417b72d0dac898a0f61a2a00aed3c9aabc2f5057c926efccf421f7887",
+                "sha256:e38f8b9dabbab48a6dab3d1eb5bd802decb92970d56a28128c9a70cdbf383e30"
             ],
-            "version": "==0.3.0"
+            "version": "==0.4.1"
         },
         "django-debug-toolbar": {
             "hashes": [
@@ -68,11 +68,11 @@
         },
         "djangorestframework": {
             "hashes": [
-                "sha256:79c6efbb2514bc50cf25906d7c0a5cfead714c7af667ff4bd110312cd380ae66",
-                "sha256:a4138613b67e3a223be6c97f53b13d759c5b90d2b433bad670b8ebf95402075f"
+                "sha256:5cc724dc4b076463497837269107e1995b1fbc917468d1b92d188fd1af9ea789",
+                "sha256:a5967b68a04e0d97d10f4df228e30f5a2d82ba63b9d03e1759f84993b7bf1b53"
             ],
             "index": "pypi",
-            "version": "==3.9.1"
+            "version": "==3.11.2"
         },
         "markdown": {
             "hashes": [
@@ -128,10 +128,10 @@
         },
         "sqlparse": {
             "hashes": [
-                "sha256:022fb9c87b524d1f7862b3037e541f68597a730a8843245c349fc93e1643dc4e",
-                "sha256:e162203737712307dfe78860cc56c8da8a852ab2ee33750e33aeadf38d12c548"
+                "sha256:017cde379adbd6a1f15a61873f43e8274179378e95ef3fede90b5aa64d304ed0",
+                "sha256:0f91fd2e829c44362cbcfab3e9ae12e22badaa8a29ad5ff599f9ec109f0454e8"
             ],
-            "version": "==0.3.1"
+            "version": "==0.4.1"
         }
     },
     "develop": {}
