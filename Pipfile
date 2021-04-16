@@ -12,7 +12,7 @@ djangorestframework = "==3.9.1"
 markdown = "==2.6.11"
 pillow = "==6.2.2"
 pytz = "==2018.5"
-django-debug-toolbar = "==1.10"
+django-debug-toolbar = "==1.11.1"
 django-admin-interface = "*"
 
 [requires]
